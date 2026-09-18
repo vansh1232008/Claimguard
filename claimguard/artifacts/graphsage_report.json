@@ -1,0 +1,14 @@
+{
+  "nodes_trained": 16808,
+  "edges": 19958,
+  "dim": 16,
+  "epochs": 4,
+  "losses": [
+    6.37664,
+    3.59486,
+    3.20476,
+    2.95472
+  ],
+  "link_prediction_auc": 0.8892,
+  "seconds": 2.6
+}
